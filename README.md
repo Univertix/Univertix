@@ -1,37 +1,65 @@
-# Univértix
+<h1 align="left">Bem-vindo a Univértix</h1>
 
-Há mais de uma década, a **Univértix** forma profissionais preparados para liderar transformações em um mundo cada vez mais conectado, dinâmico e orientado por inovação.
+###
 
-Com sede em **Matipó, Minas Gerais**, a instituição une tradição acadêmica e visão de futuro, investindo em **infraestrutura moderna**, **metodologias atualizadas** e um **corpo docente altamente qualificado** para oferecer uma formação alinhada às demandas do mercado contemporâneo.
+<p align="left">Há mais de uma década formando profissionais preparados para transformar o mundo. Com sede em Matipó (MG), a instituição conta com infraestrutura moderna, corpo docente qualificado e mais de 20 cursos de graduação presenciais autorizados pelo MEC, oferecendo ensino de excelência em diversas áreas do conhecimento.</p>
 
-Atualmente, a Univértix oferece **mais de 20 cursos presenciais de graduação autorizados pelo MEC**, abrangendo áreas estratégicas como saúde, engenharias, ciências sociais aplicadas e tecnologia.
+###
 
-## Educação conectada com o futuro
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+</div>
 
-Na Univértix, acreditamos que formação de excelência vai além da sala de aula. Por isso, promovemos um ambiente de aprendizado que integra:
+###
 
-- inovação e transformação digital  
-- desenvolvimento de competências práticas  
-- pensamento crítico e resolução de problemas  
-- aproximação constante com o mercado de trabalho  
-- uso de tecnologia aplicada ao ensino e à pesquisa  
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=Univertix&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Univertix&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Univertix&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Univertix&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Univertix&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
-## Áreas de formação
+###
 
-Entre os cursos oferecidos, destacam-se:
+<h2 align="left">🛠   Linguagens e Ferramentas</h2>
 
-- Direito  
-- Odontologia  
-- Medicina  
-- Medicina Veterinária  
-- Psicologia  
-- Engenharias  
-- e diversas outras áreas do conhecimento
+###
 
-## Nossa missão
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+</div>
 
-Preparar profissionais capazes de atuar com competência técnica, visão estratégica e responsabilidade social, contribuindo para o desenvolvimento da sociedade e para os desafios do futuro.
-
----
-
-**Univértix** — educação, inovação e conhecimento construindo novas possibilidades.
+###
